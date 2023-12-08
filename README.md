@@ -1,16 +1,15 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/tnmy-srkr/">
+<img src="https://raw.githubusercontent.com/mr-tnmy-srkr/mr-tnmy-srkr/main/images/github-header-image.png" />
+</a>
 
-<!--
-**mr-tnmy-srkr/mr-tnmy-srkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :chart_with_upwards_trend: Current Stats
 
-Here are some ideas to get you started:
+<br />
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :mailbox: Reach me out
+
+<br />
+
