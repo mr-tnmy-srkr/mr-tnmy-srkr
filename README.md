@@ -2,6 +2,26 @@
 <img src="https://raw.githubusercontent.com/mr-tnmy-srkr/mr-tnmy-srkr/main/images/github-header-image.png" />
 </a>
 
+## :eyes: Current overview
+
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
+
+### 🔭 I’m looking for - a job / an intern.
+
+### 🌱 I’m exploring - **React JS & JavaScript Problem Solving**.
+
+### 👯 I’m looking - To collaborate on open source projects.
+
+### 🤔 I’m trying - To help people learn web development.
+
+
+### 💬 Ask me about **Fronted End Development**
+
+<br />
+
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -59,4 +79,7 @@
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
+
+
+
 
