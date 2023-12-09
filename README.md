@@ -21,14 +21,14 @@
 <br />
 <div>
 <p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500"   alt="Github STat"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=transparent&date_format=j%20M%5B%20Y%5D"   alt="Github STat"/>
   </p>
 
   <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-tnmy-srkr&theme=transparent&show_icons=true&locale=en&layout=compact" width="100%" height="100%" alt="TanmoySarkar" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-tnmy-srkr&theme=transparent&show_icons=true&locale=en&layout=compact"   alt="Github STat" />
 </p>
- <p >
-<img  src="https://github-readme-stats.vercel.app/api?username=mr-tnmy-srkr&show_icons=true&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500" width="100%" height="100%" alt="Github STat"/>
+ <p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=mr-tnmy-srkr&show_icons=true&theme=transparent&date_format=j%20M%5B%20Y%5D"  alt="Github STat"/>
   </p>
 </div>
 
