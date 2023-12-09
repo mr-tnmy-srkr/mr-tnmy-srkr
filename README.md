@@ -4,7 +4,6 @@
 
 ## :eyes: Current overview
 
-
 ### 🔭 I’m looking for - a job / an intern.
 
 ### 🌱 I’m exploring - **React JS & JavaScript Problem Solving**.
@@ -13,36 +12,37 @@
 
 ### 🤔 I’m trying - To help people learn web development.
 
-
 ### 💬 Ask me about **Fronted End Development**
 
 <br />
 
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-tnmy-srkr&show_icons=true&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500" width="45%" height="100%" alt="Github STat"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500" width="45%" height="100%" alt="Github STat"/>
-</div>
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=mr-tnmy-srkr&show_icons=true&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500" width="90%" height="100%" alt="Github STat"/>
+  </p>
+
+  <!-- <p > -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-tnmy-srkr&theme=transparent&show_icons=true&locale=en&layout=compact" width="45%" height="100%" alt="TanmoySarkar" />
+<!-- </p> -->
+ <!-- <p align="right"> -->
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500" width="45%" height="100%" alt="Github STat"/>
+  <!-- </p> -->
+
+<br/> 
+
 
 ## :mailbox: Reach me out
 
 <br />
-
-
-
-### 🔥 My GitHub Stats :
 
 <p align="center">
 <!--  -->
 <a href="https://www.linkedin.com/in/tnmy-srkr/" target="blank"><img  src="https://raw.githubusercontent.com/mr-tnmy-srkr/mr-tnmy-srkr/main/images/logo/linkedin.png" alt="TanmoySarkar" height=40 width="40" /></a>&nbsp
 <a href="https://www.facebook.com/mr.tnmy.srkr/" target="blank"><img  src="https://raw.githubusercontent.com/mr-tnmy-srkr/mr-tnmy-srkr/main/images/logo/facebook.png" alt="TanmoySarkar.09" height=40 width="40" /></a>&nbsp&nbsp<a href="https://twitter.com/tnmy_srkr" target="blank"><img  src="https://raw.githubusercontent.com/mr-tnmy-srkr/mr-tnmy-srkr/main/images/logo/twitter.png" alt="TanmoySarkar09" height=40 width="40" /></a>&nbsp&nbsp<a href="https://www.instagram.com/tnmy.srkr/" target="blank"><img  src="https://raw.githubusercontent.com/mr-tnmy-srkr/mr-tnmy-srkr/main/images/logo/instagram.png" alt="TanmoySarkar" height=40 width="40" /></a>
 
-
 </p>
-
 
 <br />
 
@@ -89,7 +89,3 @@
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
-
-
-
-
