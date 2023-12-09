@@ -22,13 +22,23 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-tnmy-srkr&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500" width="46.7%" height="100%" alt="Github STat"/>
+</div>
 
 ## :mailbox: Reach me out
 
 <br />
+
+
+
+### 🔥 My GitHub Stats :
+
+
+
+
+
 
 <p align="center">
 <!--  -->
