@@ -19,16 +19,18 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
+<div>
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=mr-tnmy-srkr&show_icons=true&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500" width="90%" height="100%" alt="Github STat"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500"   alt="Github STat"/>
   </p>
 
-  <!-- <p > -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-tnmy-srkr&theme=transparent&show_icons=true&locale=en&layout=compact" width="45%" height="100%" alt="TanmoySarkar" />
-<!-- </p> -->
- <!-- <p align="right"> -->
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500" width="45%" height="100%" alt="Github STat"/>
-  <!-- </p> -->
+  <p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-tnmy-srkr&theme=transparent&show_icons=true&locale=en&layout=compact" width="100%" height="100%" alt="TanmoySarkar" />
+</p>
+ <p >
+<img  src="https://github-readme-stats.vercel.app/api?username=mr-tnmy-srkr&show_icons=true&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500" width="100%" height="100%" alt="Github STat"/>
+  </p>
+</div>
 
 <br/> 
 
