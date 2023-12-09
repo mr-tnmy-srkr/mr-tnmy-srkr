@@ -4,9 +4,6 @@
 
 ## :eyes: Current overview
 
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
 
 ### 🔭 I’m looking for - a job / an intern.
 
@@ -33,7 +30,16 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+<p align="center">
+<!--  -->
+<a href="https://www.linkedin.com/in/tnmy-srkr/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TanmoySarkar" height="30" width="40" /></a>
+<a href="https://twitter.com/tnmy_srkr" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TanmoySarkar09" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mr.tnmy.srkr/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TanmoySarkar.09" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tnmy.srkr/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TanmoySarkar" height="30" width="40" /></a>
+
+
+</p>
+
 
 <br />
 
