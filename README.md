@@ -2,13 +2,11 @@
 <img src="https://raw.githubusercontent.com/mr-tnmy-srkr/mr-tnmy-srkr/main/images/github-header-image.png" />
 </a>
 
-
 <br>
-<div align="center">
+<div align="center" style="padding-top: 20px">
 <img src="https://komarev.com/ghpvc/?username=mr-tnmy-srkr&&style=flat-square" align="center"  height="30" width="200"  />
 </div>
 <br>
-
 
 ## :eyes: Current overview
 
@@ -26,25 +24,23 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mr-tnmy-srkr&theme=discord&column=6&row=1" alt="TanmoySarkar" /> </p>
-
-
-<div>
 <p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=transparent&date_format=j%20M%5B%20Y%5D"   alt="Github STat"/>
-  </p>
-
-  <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-tnmy-srkr&theme=transparent&show_icons=true&locale=en&layout=compact"   alt="Github STat" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-tnmy-srkr&theme=transparent&show_icons=true&locale=en&layout=compact"   alt="Github Stat" />
 </p>
+
+<!-- <div> -->
+<p align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=mr-tnmy-srkr&theme=transparent&date_format=j%20M%5B%20Y%5D"   alt="Github Stat"/>
+</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mr-tnmy-srkr&theme=discord&column=6&row=1" alt="Github Stat" />
+</p>
+  
 <!--  <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=mr-tnmy-srkr&show_icons=true&theme=transparent&date_format=j%20M%5B%20Y%5D"  alt="Github STat"/>
   </p> -->
-</div>
+<!-- </div> -->
 
-<br/> 
-
+<br/>
 
 ## :mailbox: Reach me out
 
