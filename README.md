@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/mr-tnmy-srkr/mr-tnmy-srkr/main/images/github-header-image.png" />
 </a>
 
-<br>
-<div align="center" style="padding-top: 20px">
+
+<div align="center" style="margin-top: 20px">
 <img src="https://komarev.com/ghpvc/?username=mr-tnmy-srkr&&style=flat-square" align="center"  height="30" width="200"  />
 </div>
 <br>
