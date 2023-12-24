@@ -35,6 +35,10 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mr-tnmy-srkr&theme=discord&column=6&row=1" alt="Github Stat" />
 </p>
   
+
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mr-tnmy-srkr)
+
+
 <!--  <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=mr-tnmy-srkr&show_icons=true&theme=transparent&date_format=j%20M%5B%20Y%5D"  alt="Github STat"/>
   </p> -->
@@ -98,3 +102,4 @@
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
+
